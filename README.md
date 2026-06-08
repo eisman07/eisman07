@@ -1,32 +1,28 @@
-# Hi, I'm Clemens Eismayr
+# Clemens Eismayr
 
-I build small, practical software projects with a focus on clean structure, useful interfaces, and learning by shipping.
+**Building clean digital tools for practical workflows.**
 
-Right now I am working on web projects, automation ideas, and simple tools that solve everyday problems.
+I am focused on simple web projects, resale workflows, and automation ideas that make everyday work faster and clearer.
 
-## Focus
+## Current Focus
 
-- Building useful projects from idea to working prototype
-- Improving frontend fundamentals, JavaScript, Git, and GitHub workflows
-- Writing clearer documentation so projects are easier to understand and maintain
-- Turning practical problems into simple, usable software
+- Clean web interfaces
+- Reselling and small business workflows
+- Lightweight automation
+- Practical tools that are easy to use and improve
 
-## Featured Projects
+## Selected Work
 
-| Project | What it shows |
+| Project | Focus |
 | --- | --- |
-| [makerspace](https://github.com/eisman07/makerspace) | Experimenting with project structure and public documentation |
-| [Vinted-Thank-You](https://github.com/eisman07/Vinted-Thank-You) | A small project around resale workflows and communication |
-| [Calculator](https://github.com/eisman07/Calculator) | UI logic, fundamentals, and clean beginner project structure |
+| [Reselling Business](https://github.com/eisman07/Reselling-Buisness) | Organizing ideas around resale operations and digital workflows |
+| [Vinted Thank You](https://github.com/eisman07/Vinted-Thank-You) | Customer communication and post-sale details |
+| [makerspace](https://github.com/eisman07/makerspace) | Experiments with project structure and web concepts |
 
-## Tech & Tools
+## Tools
 
-`HTML` `CSS` `JavaScript` `Git` `GitHub` `VS Code`
-
-## How I Work
-
-I like projects that are clear, practical, and easy to improve step by step. My goal is to build a stronger public portfolio by shipping small tools, documenting what I learn, and refining each project over time.
+HTML, CSS, JavaScript, Git, GitHub
 
 ---
 
-Open to feedback, collaboration, and practical project ideas.
+Clear ideas. Clean execution. Useful results.
