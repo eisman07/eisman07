@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:2563EB,70:14B8A6,100:F97316&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Apps%20%7C%20Automation&descAlignY=58&descSize=18" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,32:2563EB,64:14B8A6,100:F59E0B&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Apps%20%7C%20Automation&descAlignY=58&descSize=18" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Building+clean+web+apps;Turning+ideas+into+useful+products;Focused+on+UI%2C+logic+and+real+workflows" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Building+clean+web+apps;Wall+Street+energy%2C+clean+code;Turning+ideas+into+useful+products" alt="Typing intro" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:0B1220,38:064E3B,72:F59E0B,100:0B1220&text=BUILD%20%7C%20SHIP%20%7C%20COMPOUND&fontColor=ffffff&fontSize=18&fontAlignY=54" alt="Market-inspired banner" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Full-Stack Development" />
 <img src="https://img.shields.io/badge/Style-Clean%20UI-14B8A6?style=for-the-badge" alt="Clean UI" />
-<img src="https://img.shields.io/badge/Mindset-Build%20%26%20Improve-F97316?style=for-the-badge" alt="Build and improve" />
+<img src="https://img.shields.io/badge/Energy-Wall%20Street-F59E0B?style=for-the-badge" alt="Wall Street energy" />
 <img src="https://komarev.com/ghpvc/?username=eisman07&style=for-the-badge&color=2563eb" alt="Profile views" />
 
 </div>
@@ -92,10 +94,10 @@ Goal       useful products with a sharp, modern feel
 <img src="https://img.shields.io/badge/Clean%20Design-0F172A?style=flat-square" alt="Clean Design" />
 <img src="https://img.shields.io/badge/Useful%20Products-2563EB?style=flat-square" alt="Useful Products" />
 <img src="https://img.shields.io/badge/Fast%20Iteration-14B8A6?style=flat-square" alt="Fast Iteration" />
-<img src="https://img.shields.io/badge/Full--Stack%20Mindset-F97316?style=flat-square" alt="Full-Stack Mindset" />
+<img src="https://img.shields.io/badge/Full--Stack%20Mindset-F59E0B?style=flat-square" alt="Full-Stack Mindset" />
 
 ### Clean interfaces. Smart workflows. Real projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:F97316,35:14B8A6,70:2563EB,100:0F172A" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:F59E0B,35:14B8A6,70:2563EB,100:0F172A" alt="Footer" />
 
 </div>
