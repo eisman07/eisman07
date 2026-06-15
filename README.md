@@ -45,14 +45,11 @@ I care about sharp interfaces, clear logic, and building projects that improve s
 
 ---
 
-## Current Direction
+## Direction
 
-```text
-Build      clean full-stack web apps
-Improve    UI design, backend logic and databases
-Explore    automation, dashboards and practical workflows
-Goal       useful products with a sharp, modern feel
-```
+- Build clean full-stack web apps
+- Improve UI, backend logic, and databases
+- Explore automation and useful workflows
 
 ---
 
