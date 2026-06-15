@@ -39,32 +39,9 @@ I care about sharp interfaces, clear logic, and building projects that improve s
 
 ## Featured Builds
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>StudyRank</h3>
-      <p>A study-focused web app idea built around ranking, progress and motivation.</p>
-      <p><strong>Focus:</strong> Full-stack structure, UI, logic and product thinking.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/eisman07/makerspace">makerspace</a></h3>
-      <p>A project space for experimenting with web concepts, structure and clean interfaces.</p>
-      <p><strong>Focus:</strong> Frontend, layout, project organization.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/eisman07/Reselling-Buisness">Reselling Business</a></h3>
-      <p>Digital workflow ideas around resale, operations and small business processes.</p>
-      <p><strong>Focus:</strong> Automation, organization and practical tools.</p>
-    </td>
-    <td width="50%">
-      <h3>What I am building toward</h3>
-      <p>Modern web apps that combine clean design, useful features and reliable logic.</p>
-      <p><strong>Focus:</strong> Full-stack development with a product mindset.</p>
-    </td>
-  </tr>
-</table>
+- **StudyRank** - study-focused app concept for ranking, progress, and motivation.
+- **[makerspace](https://github.com/eisman07/makerspace)** - experiments with web concepts, structure, and clean interfaces.
+- **[Reselling Business](https://github.com/eisman07/Reselling-Buisness)** - workflow ideas for resale, organization, and automation.
 
 ---
 
