@@ -55,13 +55,6 @@ I care about sharp interfaces, clear logic, and building projects that improve s
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Clean%20Design-0F172A?style=flat-square" alt="Clean Design" />
-<img src="https://img.shields.io/badge/Useful%20Products-2563EB?style=flat-square" alt="Useful Products" />
-<img src="https://img.shields.io/badge/Fast%20Iteration-14B8A6?style=flat-square" alt="Fast Iteration" />
-<img src="https://img.shields.io/badge/Full--Stack%20Mindset-F59E0B?style=flat-square" alt="Full-Stack Mindset" />
-
 ### Clean interfaces. Smart workflows. Real projects.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:F59E0B,35:14B8A6,70:2563EB,100:0F172A" alt="Footer" />
 
 </div>
