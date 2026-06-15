@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Building+clean+web+apps;Wall+Street+energy%2C+clean+code;Turning+ideas+into+useful+products" alt="Typing intro" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:0B1220,38:064E3B,72:F59E0B,100:0B1220&text=BUILD%20%7C%20SHIP%20%7C%20COMPOUND&fontColor=ffffff&fontSize=18&fontAlignY=54" alt="Market-inspired banner" />
-
 <br />
 
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Full-Stack Development" />
