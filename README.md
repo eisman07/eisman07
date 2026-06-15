@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,32:2563EB,64:14B8A6,100:F59E0B&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Apps%20%7C%20Automation&descAlignY=58&descSize=18" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,55:1E3A8A,100:14B8A6&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Clean%20Web%20Apps&descAlignY=58&descSize=17" alt="Profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Building+clean+web+apps;Wall+Street+energy%2C+clean+code;Turning+ideas+into+useful+products" alt="Typing intro" />
 
