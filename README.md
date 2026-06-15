@@ -6,10 +6,9 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Full-Stack Development" />
-<img src="https://img.shields.io/badge/Style-Clean%20UI-14B8A6?style=for-the-badge" alt="Clean UI" />
-<img src="https://img.shields.io/badge/Energy-Wall%20Street-F59E0B?style=for-the-badge" alt="Wall Street energy" />
-<img src="https://komarev.com/ghpvc/?username=eisman07&style=for-the-badge&color=2563eb" alt="Profile views" />
+<img src="https://img.shields.io/badge/Full--Stack-0F172A?style=for-the-badge" alt="Full-Stack" />
+<img src="https://img.shields.io/badge/Clean%20UI-2563EB?style=for-the-badge" alt="Clean UI" />
+<img src="https://img.shields.io/badge/Web%20Apps-14B8A6?style=for-the-badge" alt="Web Apps" />
 
 </div>
 
