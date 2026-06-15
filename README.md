@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,55:1E3A8A,100:14B8A6&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Clean%20Web%20Apps&descAlignY=58&descSize=17" alt="Profile header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Clean+web+apps;Useful+digital+products" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0F172A,55:1E3A8A,100:14B8A6&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Clean%20Web%20Apps&descAlignY=58&descSize=17" alt="Clemens Eismayr profile header" />
 
 <br />
 
