@@ -16,9 +16,9 @@
 
 ## About
 
-I build clean full-stack projects with a focus on useful interfaces, practical workflows, and fast improvement.
+Full-stack developer focused on clean web apps, useful workflows, and simple products that feel good to use.
 
-I like turning ideas into simple digital products: frontend that looks sharp, backend logic that works clearly, and tools that feel useful instead of overcomplicated.
+I care about sharp interfaces, clear logic, and building projects that improve step by step.
 
 ---
 
