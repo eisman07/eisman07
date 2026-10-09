@@ -1,58 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0F172A,55:1E3A8A,100:14B8A6&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Clean%20Web%20Apps&descAlignY=58&descSize=17" alt="Clemens Eismayr profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0F172A,55:1E3A8A,100:14B8A6&text=Clemens%20Eismayr&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Web%20Apps%20%7C%20Desktop%20Tools%20%7C%20Embedded%20Projects&descAlignY=58&descSize=17" alt="Clemens Eismayr — web apps, desktop tools, and embedded projects" />
 
-<br />
-
-<img src="https://img.shields.io/badge/Full--Stack-0F172A?style=for-the-badge" alt="Full-Stack" />
-<img src="https://img.shields.io/badge/Clean%20UI-2563EB?style=for-the-badge" alt="Clean UI" />
-<img src="https://img.shields.io/badge/Web%20Apps-14B8A6?style=for-the-badge" alt="Web Apps" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 
 </div>
-
----
 
 ## About
 
-Full-stack developer focused on clean web apps, useful workflows, and simple products that feel good to use.
+Hi, I'm Clemens. I build web apps, desktop tools, and embedded projects.
 
-I care about sharp interfaces, clear logic, and building projects that improve step by step.
+My recent work spans study tools, an iPhone PWA, and ESP32 programming. I like clear interfaces, readable code, and improving projects one step at a time.
 
----
+## Recent & Selected Projects
 
-## Stack
+| Project | Project focus | Languages & tools |
+| --- | --- | --- |
+| **PixelBoard** · private | ESP32 building blocks: joystick input, FreeRTOS tasks, and LED-matrix coordinate mapping. | C++ · Arduino · FreeRTOS |
+| **Jarvis** · private | An iPhone PWA with a personal-assistant interface and an alarm-linked morning workflow. The alarm bridge requires iOS Shortcuts. | TypeScript · React · Vite · CSS |
+| **BeforeExam** · private | A study web app with learning materials, user profiles, and an exam calendar. | PHP · JavaScript · MySQL |
+| **ACbuy-Viewer** · private | A desktop tool for importing Excel/CSV product data and displaying product cards. | Java · JavaFX · Maven · Apache POI |
 
-<div align="center">
+Private repositories are not publicly accessible.
 
-<img src="https://img.shields.io/badge/HTML-0F172A?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-1E3A8A?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-2563EB?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-0F766E?style=flat-square" alt="Node.js" />
-<img src="https://img.shields.io/badge/Databases-14B8A6?style=flat-square" alt="Databases" />
-<img src="https://img.shields.io/badge/Git-334155?style=flat-square" alt="Git" />
+## Public Repositories
 
-</div>
+- **[makerspace](https://github.com/eisman07/makerspace)** — A PHP/MySQL project with login and a member dashboard. The source is included in `makerspace_final.zip`.
+- **[Vinted-Thank-You](https://github.com/eisman07/Vinted-Thank-You)** — A multilingual thank-you page for Vinted buyers, built with HTML, CSS, and JavaScript.
 
----
+## Tools in My Projects
 
-## Featured Builds
-
-- **StudyRank** - study-focused app concept for ranking, progress, and motivation.
-- **[makerspace](https://github.com/eisman07/makerspace)** - experiments with web concepts, structure, and clean interfaces.
-- **[Reselling Business](https://github.com/eisman07/Reselling-Buisness)** - workflow ideas for resale, organization, and automation.
-
----
-
-## Direction
-
-- Build clean full-stack web apps
-- Improve UI, backend logic, and databases
-- Explore automation and useful workflows
+Alongside the languages above, I use HTML and CSS for web interfaces, SQL/MySQL for application data, and Git for version control. React, JavaFX, and Arduino appear in different projects according to what each one needs.
 
 ---
 
 <div align="center">
 
-### Clean interfaces. Smart workflows. Real projects.
+Web apps · Desktop tools · Embedded experiments
 
 </div>
